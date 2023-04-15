@@ -5,7 +5,8 @@
 Head {dir|90} get {waypoint_get}
 Get {crafting}
 Find and take {quest_text|The Storm Blade}
-Head {dir|315} ➞ {enter|2_9_5} #The Foothills
+Head {dir|135} and find the Sandstorm
+Head {dir|0} ➞ {enter|2_9_5} #The Foothills
 Head {dir|45} until you find the cliff
 Head {dir|315} get {waypoint_get}
 ➞ {enter|2_9_6} #The Boiling Lake
